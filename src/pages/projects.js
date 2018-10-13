@@ -21,7 +21,7 @@ class ProjectsPage extends React.Component {
 
       return (
         <div>
-          <h1>Projects</h1>
+          <h1>Projets</h1>
 
           {professionalProjects.length > 0 && (
             <ProjectListingSection
