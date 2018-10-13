@@ -1,21 +1,18 @@
 <div class="blog-section">
 
-## Howdy.
+  <p>Je m'appelle Alexandre, je suis développeur de puis septembre 2016. Je suis née en France. Aujourd'hui je suis au
+  Canada pour valider un DEC en informatique au 
+  <a href={'https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjIpO_r2fndAhXsyIUKHWfRDBIQFjAAegQIAhAD&url=http%3A%2F%2Fwww.cegep-matane.qc.ca%2F&usg=AOvVaw1Hu7Dop1vxKQal71NuaKNc'}  rel="noopener noreferrer">Cegep de Matane</a>.
+  </p>
+  
+  <p> Dans l'informatique, j'aime les algorithmes, la gestion de données et la sensation d'accomplissement d'un projet.</p>
+  <p>Durant mon temps, libre je pratique du sport : cross training, course à pied ou encore musculation. J'écoute aussi beaucoup Hip Hop.</p>
+  
+  <p>Vous pouvez me retrouver sur <a href="https://github.com/abeauquel" target="_blank"  rel="noopener noreferrer">Github</a>, <a
+    href="https://www.strava.com/athletes/34896178" target="_blank">Strava</a>, et <a href="https://www.linkedin.com/in/alexandre-beauquel-85bb84150/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_top%3B%2Btlh1tZFS2KIjKYDEdv1%2FA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_top-search_srp_result&lici=c79bFUZFRQKb9IRWiPTRrQ%3D%3D" target="_blank">Linkedin</a>, ou me joindre par <a
+    href="mailto:beauquel.alexandre@gmail.com"  rel="noopener noreferrer">email</a>.</p>
 
-My name is Preston and I'm a developer living in Kansas City. I work at [Postlight](https://postlight.com/)! I'm passionate about solving problems, using strong passwords, and pho.
-
-In my free time, I enjoy cycling and listening to jazz.
-
-You can find me on <a href="https://twitter.com/prestonrichey" target="_blank">Twitter</a>, <a href="https://github.com/prichey" target="_blank">Github</a>, and <a href="https://www.strava.com/athletes/6928920" target="_blank">Strava</a>, or reach me via <a href="mailto:prestonleerichey@gmail.com">email</a>.
-
-</div>
-
-<div class="blog-section">
-
-## Colophon
-
-This site was made with the excellent <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby.js</a> and is hosted on <a href="https://www.netlify.com/" target="_blank">Netlify</a>. You can look at its code <a href="https://github.com/prichey/prestonrichey.com" target="_blank">here</a>. I used <a href="https://threejs.org/" target="_blank">three.js</a> to import a model of my head which was scanned with a <a href="https://structure.io/" target="_blank">Structure Sensor</a>.
-
-The monospace font is <a href="https://fonts.google.com/specimen/Roboto+Mono" target="_blank">Roboto Mono</a> and the sans-serif is <a href="https://fonts.google.com/specimen/Rubik" target="_blank">Rubik</a>.
+  <p>Ce site est un fork du <a href={'https://github.com/prichey/prestonrichey.com'}  rel="noopener noreferrer">portfolio de Preston richey</a> .
+  Le site est fait avec le framework <a href="https://www.gatsbyjs.org/" target="_blank"  rel="noopener noreferrer">Gatsby.js</a> et hébergé sur <a href="https://www.netlify.com/" target="_blank"  rel="noopener noreferrer">Netlify</a>. </p>
 
 </div>
