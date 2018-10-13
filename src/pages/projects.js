@@ -15,22 +15,36 @@ class ProjectsPage extends React.Component {
         project => project.node.fields.projectType === 'professional'
       );
 
+      const formationProjects = allProjects.filter(
+        project => project.node.fields.projectType === 'formation'
+      );
+
       return (
         <div>
           <h1>Projects</h1>
-          {personalProjects.length > 0 && (
-            <ProjectListingSection
-              projects={personalProjects}
-              sectionTitle="Personal"
-            />
-          )}
 
           {professionalProjects.length > 0 && (
             <ProjectListingSection
               projects={professionalProjects}
-              sectionTitle="Professional"
+              sectionTitle="Professionnel"
             />
           )}
+
+          {personalProjects.length > 0 && (
+            <ProjectListingSection
+              projects={personalProjects}
+              sectionTitle="Personnel"
+            />
+          )}
+
+
+          {formationProjects.length > 0 && (
+            <ProjectListingSection
+              projects={formationProjects}
+              sectionTitle="Formation"
+            />
+          )}
+
         </div>
       );
     } catch (e) {
