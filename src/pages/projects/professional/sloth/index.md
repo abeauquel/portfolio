@@ -1,5 +1,5 @@
 ---
-title: "Sloth"
+title: "@Sloth"
 date: "juin 2017"
 lede: "Stage de première année : Site web interne au groupe permettant la gestion des congés pour les salariés de l'entreprise."
 link: ""
