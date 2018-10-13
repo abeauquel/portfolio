@@ -14,3 +14,11 @@ Un site web alliant gestion pour les employés (back office) et les clients (fro
 
 L'application web a été faite en php avec une base de données MySql. Pour le css j'ai
 utilisé Boostrap 3.0. 
+
+<div class="blog-inset">
+  <hidden>
+    <img src='projet6.png' />
+    <img src='projet6.png' />
+  </hidden>
+  <zoom-image src='projet6.png' zoomSrc='projet6.png' ></zoom-image>
+</div>

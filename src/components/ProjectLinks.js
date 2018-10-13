@@ -23,7 +23,7 @@ const StyledProjectLink = styled.li`
 
 class ProjectLinks extends React.Component {
   render() {
-    
+
       return (
         <StyledProjectLinksList>
           {this.props.link && (

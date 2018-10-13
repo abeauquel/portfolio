@@ -1,12 +1,12 @@
 ---
-title: "E-Seller lead"
-date: " janvier à mars 2018"
-lede: "Stage de deuxieme année : Application web de gestion de lead pour les concessions automobiles"
+title: "Sloth"
+date: "juin 2017"
+lede: "Stage de première année : Site web interne au groupe permettant de la gestion des congés pour les salariés de l'entreprise."
 link: ""
 repo: ""
-order: 2
+order: 1
 publish: true
-lang: "React js"
+lang: "Python, Django"
 ---
 
 Durant mon stage de 2éme année j'ai eu l'occasion de de travailler sur ce projet pendant 2 mois. 
@@ -15,8 +15,8 @@ vers les commerciaux. Cet ordre est géré par le manager des commerciaux.
 
 <div class="blog-inset">
   <hidden>
-    <img src='projet4.png' />
-    <img src='projet4.png' />
+    <img src='projet5.png' />
+    <img src='projet5.png' />
   </hidden>
-  <zoom-image src='projet4.png' zoomSrc='projet4.png' ></zoom-image>
+  <zoom-image src='projet5.png' zoomSrc='projet5.png' ></zoom-image>
 </div>
