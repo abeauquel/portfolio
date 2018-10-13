@@ -23,7 +23,7 @@ const StyledProjectLink = styled.li`
 
 class ProjectLinks extends React.Component {
   render() {
-    if (!!this.props.link || !!this.props.repo) {
+    
       return (
         <StyledProjectLinksList>
           {this.props.link && (
@@ -51,9 +51,7 @@ class ProjectLinks extends React.Component {
           )}
         </StyledProjectLinksList>
       );
-    } else {
-      return null;
-    }
+
   }
 }
 
