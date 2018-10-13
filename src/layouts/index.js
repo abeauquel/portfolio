@@ -64,8 +64,8 @@ class Template extends React.Component {
             href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,700|Rubik:700"
             rel="stylesheet"
           />
-          <title>Preston Richey</title>
-          <meta property="og:title" content="Preston Richey" />
+          <title>Alexandre Beauquel</title>
+          <meta property="og:title" content="Alexandre Beauquel" />
           <meta property="og:description" content="Personal Website" />
           <meta property="og:type" content="website" />
           <meta property="og:url" content="https://prestonrichey.com" />
@@ -78,7 +78,7 @@ class Template extends React.Component {
             content="https://prestonrichey.com/social-meta.png"
           />
           <meta name="twitter:card" content="summary" />
-          <meta name="twitter:title" content="Preston Richey" />
+          <meta name="twitter:title" content="Alexandre Beauquel" />
           <meta name="twitter:description" content="Personal Website" />
           <meta
             name="twitter:image"
@@ -89,7 +89,7 @@ class Template extends React.Component {
 
         <StyledHeader>
           <StyledTitle>
-            <TitleLink to="/">Preston Richey</TitleLink>
+            <TitleLink to="/">Alexandre Beauquel</TitleLink>
           </StyledTitle>
 
           <Nav />
