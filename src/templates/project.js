@@ -12,7 +12,7 @@ export default ({ data }) => {
     <div>
       {post.frontmatter.title && (
         <Helmet>
-          <title>Preston Richey | {post.frontmatter.title}</title>
+          <title>Alexandre Beauquel | {post.frontmatter.title}</title>
         </Helmet>
       )}
       <h1>{post.frontmatter.title}</h1>

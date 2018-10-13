@@ -88,9 +88,9 @@ class Nav extends React.Component {
       <StyledNav>
         <StyledList>
           <ListElement>
-            <NavItem to="/blog/" activeClassName={activeClassName}>
+           {/* <NavItem to="/blog/" activeClassName={activeClassName}>
               blog
-            </NavItem>
+            </NavItem>*/}
           </ListElement>
           <ListElement>
             <NavItem to="/projects/" activeClassName={activeClassName}>
