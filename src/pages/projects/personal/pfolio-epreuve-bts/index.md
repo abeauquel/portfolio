@@ -9,11 +9,12 @@ publish: true
 lang: "React js, Php"
 ---
 
-Création d'un portfolio afin de montrer mes compétences
+Création d'un portfolio afin de montrer mes compétences par rapport au référenciel officel du BTS.
  apprise durant mes deux années de BTS. J'ai réalisé en React js avec une API en php pour valider l'apprentissage
-du langage utilisé durant mon stage de deuxiéme année.
+du langage utilisé durant mon stage de deuxiéme année. 
+Pour le css j'ai utilisé <a href="https://materializecss.com/">Materialize</a>.
 
-lien du site : https://abeauquel-pfolio.herokuapp.com/
+Lien du site (attente de 10 sec le temps que le serveur s'allume): https://abeauquel-pfolio.herokuapp.com/
 
 <div class="blog-inset">
   <hidden>

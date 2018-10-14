@@ -12,7 +12,5 @@
     href="https://www.strava.com/athletes/34896178" target="_blank">Strava</a>, et <a href="https://www.linkedin.com/in/alexandre-beauquel-85bb84150/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_top%3B%2Btlh1tZFS2KIjKYDEdv1%2FA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_top-search_srp_result&lici=c79bFUZFRQKb9IRWiPTRrQ%3D%3D" target="_blank">Linkedin</a>, ou me joindre par <a
     href="mailto:beauquel.alexandre@gmail.com"  rel="noopener noreferrer">email</a>.</p>
 
-  <p>Ce site est un fork du <a href={'https://github.com/prichey/prestonrichey.com'}  rel="noopener noreferrer">portfolio de Preston richey</a> .
-  Le site est fait avec le framework <a href="https://www.gatsbyjs.org/" target="_blank"  rel="noopener noreferrer">Gatsby.js</a> et hébergé sur <a href="https://www.netlify.com/" target="_blank"  rel="noopener noreferrer">Netlify</a>. </p>
-
+  
 </div>
