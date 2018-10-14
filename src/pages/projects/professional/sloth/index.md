@@ -9,9 +9,10 @@ publish: true
 lang: "Python, Django"
 ---
 
-Durant mon stage de 2éme année j'ai eu l'occasion de de travailler sur ce projet pendant 2 mois. 
-Je me suis occupé d'une d'une fonctionnalité pour gérer l'ordre d'arrivé des leads générés par les clients 
-vers les commerciaux. Cet ordre est géré par le manager des commerciaux.
+Durant mon stage de 1ère année j'ai eu l'occasion de de travailler sur ce projet pendant 1 mois. 
+Je me suis occupé d'une d'une de drive pour que les employés puissent déposer des justificatifs 
+de leurs absences. J'ai cotoyé le framework Django et une base de données MongoDB. J'ai également fait
+mes premiers pas avec Boostrap, un outil que j'ai beaucoup utilisé par la suite.
 
 <div class="blog-inset">
   <hidden>
