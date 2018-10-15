@@ -91,6 +91,9 @@ class Nav extends React.Component {
            {/* <NavItem to="/blog/" activeClassName={activeClassName}>
               blog
             </NavItem>*/}
+            <NavItem to="/veille/" activeClassName={activeClassName}>
+              veille
+            </NavItem>
           </ListElement>
           <ListElement>
             <NavItem to="/projects/" activeClassName={activeClassName}>
