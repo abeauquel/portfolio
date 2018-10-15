@@ -20,3 +20,6 @@ vers les commerciaux. Cet ordre est géré par le manager des commerciaux.
   </hidden>
   <zoom-image src='projet4.png' zoomSrc='projet4.png' ></zoom-image>
 </div>
+
+Lors de ce projet j'ai pu communiquer pour la premiére fois avec une API REST,
+ sur un SGBD Microsoft SQL server.
