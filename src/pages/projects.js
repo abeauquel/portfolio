@@ -41,7 +41,7 @@ class ProjectsPage extends React.Component {
           {formationProjects.length > 0 && (
             <ProjectListingSection
               projects={formationProjects}
-              sectionTitle="Formation"
+              sectionTitle="En formation"
             />
           )}
 
