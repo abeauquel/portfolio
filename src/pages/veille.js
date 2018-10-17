@@ -16,16 +16,8 @@ class Veille extends React.Component {
     return (
       <div>
         <p>Ma veille technologique, elle regroupe tous les articles que j'ai trouvé interessant sur twitter.</p>
-        {this.state.isChargedTimeline ? null:
-          <div >
-            <p>Chargement de la timeline twitter</p>
-            <Loader
-              type="Plane"
-              color="#00BFFF"
-              height="300"
-              width="300"
-            />
-          </div>}
+
+
         <div className={this.state.isChargedTimeline ? '' : 'hide'}>
           <Timeline
             key={'timeline'}
@@ -48,8 +40,18 @@ class Veille extends React.Component {
             }
             }}
           />
-
         </div>
+        {this.state.isChargedTimeline ? null:
+          <div style={{textAlign:'center'}}>
+            <p style={{textAlign:'left', paddingBottom:'15%'}}>Chargement de la timeline twitter</p>
+            <Loader
+              type="Plane"
+              color="#00BFFF"
+              height="300"
+              width="300"
+            />
+          </div>}
+
       </div>
     )
   }
