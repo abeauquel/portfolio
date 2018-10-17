@@ -5,7 +5,7 @@ lede: "Application de gestion de liste de course."
 link: ""
 repo: ""
 order: 3
-publish: true
+publish: false
 lang: "Java android"
 ---
 
