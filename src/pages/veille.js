@@ -15,7 +15,7 @@ class Veille extends React.Component {
 
     return (
       <div>
-        <p>Ma veille technologique, elle regroupe tous les articles que j'ai trouvé interessant sur twitter.</p>
+        <p>Ma veille technologique, elle regroupe tous les articles que j'ai trouvé interessants sur twitter.</p>
 
 
         <div className={this.state.isChargedTimeline ? '' : 'hide'}>
