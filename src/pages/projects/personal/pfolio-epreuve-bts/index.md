@@ -1,7 +1,7 @@
 ---
 title: "@Pfolio"
 date: "mai 2018"
-lede: "Site web de présentation pour l'oral final de mon BTS service informatique au organisation."
+lede: "Site web de présentation pour l'oral final de mon BTS service informatique aux organisations."
 link: ""
 repo: "https://github.com/abeauquel/pfolio"
 order: 2

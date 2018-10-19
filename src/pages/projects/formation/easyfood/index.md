@@ -1,7 +1,7 @@
 ---
 title: "@Easyfood"
 date: "avril 2018"
-lede: "Application de commentaire pour de la livraison dans la restauration."
+lede: "Application de commentaires pour la livraison dans la restauration."
 link: ""
 repo: ""
 order: 2

@@ -1,7 +1,7 @@
 ---
 title: "@Autocool : Citiz"
 date: "2017"
-lede: "Une application de gestion pour le partage de voiture électriques."
+lede: "Une application de gestion pour le partage de voitures électriques."
 link: ""
 repo: ""
 order: 1
