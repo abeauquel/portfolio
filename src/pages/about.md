@@ -2,7 +2,7 @@
 
   <p>Je m'appelle Alexandre, je suis développeur depuis septembre 2016. Je suis né en France. Aujourd'hui je suis au
   Canada pour valider un DEC en informatique au 
-  <a href={'https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjIpO_r2fndAhXsyIUKHWfRDBIQFjAAegQIAhAD&url=http%3A%2F%2Fwww.cegep-matane.qc.ca%2F&usg=AOvVaw1Hu7Dop1vxKQal71NuaKNc'}  rel="noopener noreferrer">Cegep de Matane</a>.
+  <a href="http://www.cegep-matane.qc.ca/"  rel="noopener noreferrer">Cegep de Matane</a>.
   </p>
   
   <p> Dans l'informatique, j'aime les algorithmes, la gestion de données et la sensation d'accomplissement d'un projet.</p>
