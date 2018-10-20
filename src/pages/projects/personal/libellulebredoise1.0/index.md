@@ -11,10 +11,14 @@ lang: "VB.net, Access"
 
 ###À propos de la libellule Brédoise 
 
-La libellule brédoise est une chambre d’hôte possédant une seule chambre. Les réservations se font à de
+La libellule brédoise est une chambre d’hôte possédant une seule chambre. Les réservations se font de
 plusieurs façons à travers des plateformes tel que Booking ou Clé Vacances mais aussi parfois en direct.
-La gestion actuel se fait en utilisant le Back office proposer par Booking, un tableau Excel. L’agenda est
-géré par un channel manager faisant le lien entre les différentes plateformes.
+La gestion actuel se fait en utilisant le Back office proposé par Booking, un tableau Excel. L’agenda est
+géré par un channel manager faisant le lien entre les différentes plateformes comme 
+<a href="https://www.booking.com/hotel/fr/la-libellule-bredoise.fr.html">Booking</a>, 
+<a href="https://fr.airbnb.ca/rooms/24167373">AirBnB</a> ou 
+<a href="https://www.clevacances.com/fr/locationvacances/aquitaine/gironde/labrede-13137/la_libellule_bredoise/45305">Clévacances</a>.
+
 
 <div class="blog-inset">
   <hidden>
@@ -46,12 +50,12 @@ Afficher un tableau de bord des réservations.
 **Demande sur l’interface**
 
 Afficher un tableau de bord des réservations :
-toutes les information que contient une réservation mais aussi le nom de son client. 
+toutes les information contiennent une réservation mais aussi le nom de son client. 
 
 Distinguer graphiquement :
-    * L’annulation d’une réservation
-    * Une réservation non payée
-    * Un client genius
+   * L’annulation d’une réservation
+   * Une réservation non payée
+   * Un client genius
 
 Tri du tableau de bord :
 * Doit pouvoir trier les réservations par ordre chronologique, sur les trois dates possible (choix dans l’interface)
@@ -59,9 +63,9 @@ Tri du tableau de bord :
 * Par défaut il doit être possible de de sélectionner des choix de date tel que l’année actuelle, le mois actuel, la semaine actuelle
 * Par défaut à l’ouverture l’application doit afficher le tableau de bord sur l’année actuelle
 
-Le tableau de bord trié doit afficher des chiffres globals pour toutes les réservations correspondant au tri sélectionné.
+Le tableau de bord trié doit afficher des chiffres globaux pour toutes les réservations correspondant au tri sélectionné.
 Ce tableau de bord global doit afficher : 
-* Le nombre total de personnes venu ( distinguer les enfants)
+* Le nombre total de personnes venus ( distinguer les enfants)
 * Le nombre de d’annulations
 * le nombre de réservations non payées
 * le nombre de nuitées

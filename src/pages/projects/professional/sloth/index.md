@@ -9,8 +9,8 @@ publish: true
 lang: "Python, Django"
 ---
 
-Durant mon stage de 1ère année j'ai eu l'occasion de de travailler sur ce projet pendant 1 mois. 
-Je me suis occupé d'une d'une de drive pour que les employés puissent déposer des justificatifs 
+Durant mon stage de 1ère année, j'ai eu l'occasion de travailler sur ce projet pendant 1 mois. 
+Je me suis occupé d'une fonctionnalité de drive pour que les employés puissent déposer des justificatifs 
 de leurs absences. J'ai cotoyé le framework Django et une base de données MongoDB. J'ai également fait
 mes premiers pas avec Boostrap, un outil que j'ai beaucoup utilisé par la suite.
 
