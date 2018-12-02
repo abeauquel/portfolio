@@ -9,8 +9,13 @@ publish: false
 lang: "Java android"
 ---
 
-L'application utilise une base de données SQLLite.
-
+Fonctionnalités : 
+  <li>Sauvegarder des listes de courses</li>
+  <li>Historiser les listes, avec une sauvegarder des produits achetés et une photo du ticket de caisse</li>
+  <li>Lié une course à un Magasin et l'afficher sur une carte google maps</li>
+  <li>Base de données de 5000 produits</li>   
+  <li>Notification pour une liste de course</li>
+  <li>Gestion de théme (basique, sombre, lumineux)</li>
 
 <div class="blog-inset">
   <hidden>
