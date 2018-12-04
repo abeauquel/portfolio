@@ -17,11 +17,34 @@ Fonctionnalités :
   <li>Notification pour une liste de course</li>
   <li>Gestion de théme (basique, sombre, lumineux)</li>
 
+<br/>
+<br/>
+<div class=" sidebar left" style="width: 30%;" >
+<p>Ajout d'une course</p>
 
-<div class="blog-inset">
-  <hidden>
-    <img src='projet8.png' />
-    <img src='projet8.png' />
+  <hidden style="width: 50%;">
+    <img src='ajouter_course.jpg' style="width: 50%;"/>
+    <img src='ajouter_course.jpg' style="width: 50%;"/>
   </hidden>
-  <zoom-image src='projet8.png' zoomSrc='projet8.png' ></zoom-image>
+  <zoom-image src='ajouter_course.jpg' zoomSrc='ajouter_course.jpg' ></zoom-image>
+</div>
+
+<div class=" blog-inset right" style="width: 30%;">
+<p>Ajout d'une course avec theme lumineux: </p>
+
+  <hidden>
+    <img src='ajouter_course_lumineux.jpg' />
+    <img src='ajouter_course_lumineux.jpg' />
+  </hidden>
+  <zoom-image src='ajouter_course_lumineux.jpg' zoomSrc='ajouter_course_lumineux.jpg' ></zoom-image>
+</div>
+
+<div class=" sidebar left" style="width: 50%;">
+<p>Affichage d'une ancienne course </p>
+
+  <hidden>
+    <img src='liste_historique.jpg' />
+    <img src='liste_historique.jpg' />
+  </hidden>
+  <zoom-image src='liste_historique.jpg' zoomSrc='liste_historique.jpg' ></zoom-image>
 </div>
