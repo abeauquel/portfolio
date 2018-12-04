@@ -46,15 +46,15 @@ class Veille extends React.Component {
             <p style={{textAlign:'left', paddingBottom:'15%'}}>Chargement de la timeline twitter</p>
             <p style={{textAlign:'left', paddingBottom:'15%'}}>
             Si la timeline ne charge pas : <a href='https://twitter.com/alexbeauquel?lang=fr' target="_blank" rel="noopener noreferrer"> Lien direct vers twitter</a>
-              
+            </p>
             <Loader
               type="Plane"
               color="#00BFFF"
               height="300"
               width="300"
             />
-          </div>}
-
+          </div>
+          }
       </div>
     )
   }
