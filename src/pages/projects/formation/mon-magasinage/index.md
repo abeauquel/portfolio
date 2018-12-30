@@ -2,8 +2,8 @@
 title: "@Mon-Magasinage"
 date: "septembre, octobre 2018"
 lede: "Application de gestion de liste de course."
-link: ""
-repo: ""
+link: "https://youtu.be/v65R2eMW1yM"
+repo: "https://github.com/abeauquel/programmation-mobile-2018-projet-java-mon-magasinage"
 order: 3
 publish: true
 lang: "Java android"

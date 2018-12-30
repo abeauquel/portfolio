@@ -1,7 +1,7 @@
 ---
 title: "@libellule-bredoise-gestion 2.0"
 lede: "Application web pour la gestion d'une chambre d'hôte."
-date: "juillet 2018"
+date: "aujourd'hui"
 link: ""
 repo: "https://github.com/abeauquel/front_libellule"
 order: 3
@@ -34,6 +34,7 @@ Demandes supplémentaires :
 - Séparer la notion de plateforme de réservation des réservations pour pouvoir gérer plus facilement l’ajout d’une nouvelle plateforme ou la modification du taux de commission de cette plateforme.
 - Trier les réservation par plateformes dans le tableau de bord
 - Générer la facture d'une réservation au format pdf
+- Générer le tableau affiché au format excel
 
 
 La partie client de l'application est en ReactJs hébergé sur heroku. Cette dernière est reliée a une API en 
