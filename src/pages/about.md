@@ -1,8 +1,8 @@
 <div class="blog-section">
 
   <p>Je m'appelle Alexandre, je suis développeur depuis septembre 2016. Je suis né en France. Aujourd'hui je suis au
-  Canada pour valider un DEC en informatique au 
-  <a href="http://www.cegep-matane.qc.ca/"  rel="noopener noreferrer">Cegep de Matane</a>.
+  Canada pour un BAC en informatique à . 
+  <a href="https://www.usherbrooke.ca/"  rel="noopener noreferrer">l'Université de Sherbrooke</a>.
   </p>
   
   <p> Dans l'informatique, j'aime les algorithmes, la gestion de données et la sensation d'accomplissement d'un projet.</p>
